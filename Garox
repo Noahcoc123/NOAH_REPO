@@ -1,0 +1,4 @@
+"scripts": {
+    "start": "SET NODE_ENV=dev&&nodemon",
+    "build": "SET NODE_ENV=prod&&tsc --project ./",
+}
